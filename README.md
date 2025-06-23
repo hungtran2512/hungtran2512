@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hungtran2512
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning CTF
 - 📫 How to reach me: trangiahung251203@gmail.com
 
 <!---
